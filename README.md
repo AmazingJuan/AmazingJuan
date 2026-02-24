@@ -4,7 +4,7 @@ Backend-focused Software Developer building reliable, scalable, and production-r
 
 ## About Me
 
-I'm a Computer Science student in my final year with professional experience designing relational database schemas, developing RESTful APIs, and deploying cloud-based applications.
+I'm a Computer Science student in my final years with professional experience designing relational database schemas, developing RESTful APIs, and deploying cloud-based applications.
 
 I care about clean architecture, maintainable code, and long-term system reliability. I enjoy working on backend systems where correctness, performance, and structure matter.
 
