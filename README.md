@@ -1,62 +1,117 @@
-# Juan Avendaño
+# Juan Avendaño  
+![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=0ea5e9)
 
-Backend-focused Software Developer building reliable, scalable, and production-ready systems.
+**Building Production-Ready Systems | REST APIs | Distributed Architecture | Medellín, Colombia**  
+[🔗 GitHub](https://github.com/amazingjuan) · [📧 jpavendanb@gmail.com](mailto:jpavendanb@gmail.com) · [LinkedIn](https://linkedin.com/in/amazingwalin)
 
-## About Me
+---
 
-I'm a Computer Science student in my final years with professional experience designing relational database schemas, developing RESTful APIs, and deploying cloud-based applications.
+> **Crafting scalable, reliable backend systems that power modern applications — from database design to cloud deployment.**
 
-I care about clean architecture, maintainable code, and long-term system reliability. I enjoy working on backend systems where correctness, performance, and structure matter.
+---
 
-## Technical Stack
+## 🚀 Core Expertise
 
-**Languages**
-- Python
-- TypeScript
-- PHP
-- SQL
+```
+🔧 Relational Database Design & Query Optimization
+🔐 Secure API Development (JWT, RBAC, OAuth2)
+🐳 Containerized Infrastructure (Docker, multi-service setups)
+☁️ Cloud Deployments (AWS EC2 / RDS / S3 | GCP Compute)
+⚡ Async Processing & Task Queues (Redis + Workers)
+🤖 AI Workflow Integration (OpenAI APIs, automation pipelines)
+🧪 CI/CD Automation (GitHub Actions)
+```
 
-**Backend**
-- Django / Django REST Framework
-- Laravel
-- NestJS
+---
 
-**Databases**
-- PostgreSQL
-- MySQL
+## 🛠️ Technology Stack
 
-**Cloud & DevOps**
-- Docker
-- AWS
-- GCP
-- GitHub Actions
-- Linux
+<div align="center">
 
-## What I Focus On
+| **Backend** | **Databases** | **Cloud / DevOps** | **Languages** |
+|-------------|---------------|--------------------|---------------|
+| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![Laravel](https://img.shields.io/badge/Laravel-FB503C?style=flat&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
 
-- Designing relational data models
-- Building secure and well-structured APIs
-- Background job processing (Redis-based)
-- Authentication systems (JWT-based)
-- Containerized deployments
-- CI/CD pipelines
-- AI integrations (OpenAI API use cases)
+</div>
 
-## Currently Improving
+---
 
-- Advanced authentication patterns (OAuth2 / SSO)
-- Modern frontend integration (React / Next.js)
-- Distributed system design principles
+## 🏗️ Architecture & Practices
 
-## Selected Projects
+- RESTful API contract-first design  
+- Layered architecture (Controller → Service → Repository)  
+- Modular monolith patterns  
+- Schema normalization & index strategy  
+- Transaction-safe operations  
+- Idempotent background jobs  
+- Environment-based configuration  
+- Structured logging & error handling  
 
-### Pixelware – E-commerce Platform
-Role-based authentication, product ranking logic, AI-generated descriptions, Dockerized deployment to AWS with CI/CD.
+---
 
-### Academic Management System
-Relational schema design, REST API development with Django, scheduled background jobs with Redis, deployment to GCP.
+## 🔥 Featured Projects
 
-## Contact
+### ✨ Pixelware — Full-Stack E-commerce Platform
 
-- LinkedIn: linkedin.com/in/amazingwalin
-- Email: jpavendanb@gmail.com
+```
+🛒 Laravel + MySQL
+🔐 JWT Authentication & RBAC
+🤖 OpenAI Product Descriptions
+📊 Custom Ranking Algorithm
+🐳 Dockerized Architecture
+☁️ AWS (EC2 + RDS + S3)
+⚙️ GitHub Actions CI/CD
+```
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amazingjuan/pixelware)
+
+---
+
+### 🎓 Nodo EAFIT — Academic Management System
+
+```
+📚 Django REST + PostgreSQL
+⚙️ Redis Background Jobs (Huey)
+🔐 Role-Based Access Control
+🌐 Google Cloud Platform
+🧱 Normalized Relational Schema
+```
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amazingjuan&theme=github_dark" 
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amazingjuan&theme=github_dark" 
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/amazingwalin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jpavendanb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Backend Engineering · Clean Architecture · Scalable Systems</sub>
+</div>
